@@ -8,3 +8,15 @@
 6. Maximum profit by buying and selling a share at most k transaction.
 7. Rod cutting problem.
 8. Minimum jumps to reach to end problem.
+
+
+
+
+
+
+
+
+
+
+
+Refrences: we are learning algorithms from geeksforgeeks.
