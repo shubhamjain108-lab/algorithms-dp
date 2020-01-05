@@ -7,7 +7,7 @@ import (
 
 func main() {
 	var arr = []int{3,4,-1,0,6,2,3}
-	fmt.Println("length of longest increasing subsequnece is: ", dp.LongestIncreasingSubsequence(arr, 7))
+	fmt.Println("length of longest increasing subsequnece is: ", LongestIncreasingSubsequence(arr, 7))
 }
 func LongestIncreasingSubsequence(x []int, n int) int {
 	len := make([]int, n)
